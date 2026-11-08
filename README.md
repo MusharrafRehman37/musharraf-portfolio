@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Musharraf Rehman – MERN Portfolio
 
 A black and white animated developer portfolio.
@@ -106,3 +107,7 @@ Free plans, limits and settings change, so check each host's current docs.
 - **"Could not send" on the form:** the backend is not running, `VITE_API_URL` is wrong, or `CLIENT_URL` in `server/.env` does not match your frontend URL exactly.
 - **MongoDB connection failed:** check `MONGO_URI`, your Atlas password (special characters must be URL-encoded) and Atlas network access.
 - **Port already in use:** change `PORT` in `server/.env` and update `VITE_API_URL`.
+=======
+# musharraf-portfolio
+A modern, responsive personal portfolio website built with React.js, showcasing my skills, projects, and journey as a MERN Stack Developer. Features a minimal black-and-white design, smooth animations, interactive UI elements, and a clean user experience.
+>>>>>>> 912f60c0e00753056d969b053f2583bdf004bfc0
