@@ -32,7 +32,7 @@ export default function Hero() {
       <motion.div className="cta" {...fade(1.7)}>
         <a className="btn fill" href="#work">See my work</a>
         <a className="btn" href="#contact">Hire me</a>
-        <a className="btn" href={profile.linkedin} target="_blank" rel="noopener noreferrer">Resume</a>
+       <a className="btn" href={profile.resume} target="_blank" rel="noopener noreferrer">Resume</a>
       </motion.div>
     </main>
   );

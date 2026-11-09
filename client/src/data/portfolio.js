@@ -9,8 +9,11 @@ export const profile = {
   instagram: "https://www.instagram.com/m.b_khan_official/",
   company: { name: "Primemobile.se", url: "https://primemobile.se" },
   // Put your photo in client/public/ (e.g. photo.jpg) and change this path.
-  photo: "/photo.svg",
+  photo: "/linkden.jpeg",
+  resume: "/CV.pdf",
 };
+
+
 
 export const stack = ["MongoDB", "Express", "React", "Node.js", "Java", "Android", "REST APIs"];
 
@@ -21,9 +24,9 @@ export const services = [
 ];
 
 export const projects = [
-  { title: "M.H Store", text: "Online store project, live on Vercel.", link: "https://mh-store1.vercel.app/" },
-  { title: "Bootstrap website", text: "Responsive website built with Bootstrap.", link: "https://musharraf-bootstrap01.surge.sh/" },
-  { title: "CSS3 website", text: "Styled and animated website built with CSS3.", link: "https://musharrafrehman3css.surge.sh/index.html" },
+  { title: "M.H Store", text: "Online Ecomerce store project.", link: "https://mh-store1.vercel.app/" },
+  { title: "BR-Architects website", text: "Responsive website built with Bootstrap.", link: "https://musharraf-bootstrap01.surge.sh/" },
+  { title: "SMIT website", text: "Build a styled and animated website For SMIT.", link: "https://musharrafrehman3css.surge.sh/index.html" },
 ];
 
 export const skills = [
